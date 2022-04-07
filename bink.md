@@ -5,8 +5,8 @@ bonk
 ===============
 # bonk w space
 I love code. 
-This is a paragraph. 
-This is the first line
+<p> This is a paragraph. 
+This is the first line <br>
 and this is an example of a line break. 
 bink **BONK** 
 *bink bonk*
