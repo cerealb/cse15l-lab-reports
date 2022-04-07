@@ -22,4 +22,3 @@ bink **BONK**
 3. cool
 - omg 
 - a list
-![image](https://www.google.com/search?q=cow&sxsrf=APq-WBuUhcnlyXQtke3BgxT8einNRa149Q:1649353230101&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjyqo7Lv4L3AhUpD0QIHTeDBlIQ_AUoAXoECAIQAw&biw=1707&bih=821&dpr=0.8#imgrc=bfA08OHLCUGwiM/to/img.png)
