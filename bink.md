@@ -17,9 +17,7 @@ bink **BONK**
 1. code
 2. looks 
 3. cool
-- omg 
-- a list
-![Image](
+![Image](/assets/ryf-fbbanner-eventpg.png)
 <p> This is a paragraph. 
 <p> This is the first line <br>
 and this is an example of a line break. 
