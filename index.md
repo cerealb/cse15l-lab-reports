@@ -1,4 +1,4 @@
-#This is the beginning of my first website!
+# This is the beginning of my first website!
 # Discover Yearly & the Highlights
 ## What is a discover yearly?
 
@@ -12,7 +12,7 @@ Here's the link to my 2021 discover yearly playlist:
 [2021 Anne's Discover Yearly](https://open.spotify.com/playlist/6yYHbQdX02nHBee4HyN7Nc?si=ab89984369684800)
 
 ## Here's a breakdown of some of my favorite songs so far: 
-#### Here's the link to the full playlist: 
+Here's the link to the full playlist: 
 [2022 Anne's Discover Yearly](https://open.spotify.com/playlist/4xzHksAWlraprPkpIDBv8x?si=0e49bc68cb55467b)
 
-#### To go more into depth, 
+To go more into depth, 
