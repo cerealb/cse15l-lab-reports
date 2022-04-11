@@ -6,7 +6,7 @@ If one is familiar with the app Spotify, there is a specific playlist named "Dis
 
 This is what a discover weekly looks like: 
 
-[Image](cse15l-lab-reports/Capture.JPG)
+![Image](/assets/images/Capture.JPG)
 
 Here's the link to my 2021 discover yearly playlist: 
 
