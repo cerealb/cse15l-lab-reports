@@ -13,6 +13,7 @@ Here's the link to my 2021 discover yearly playlist:
 
 ## Here's a breakdown of some of my favorite songs so far: 
 Here's the link to the full playlist: 
+
 [2022 Anne's Discover Yearly](https://open.spotify.com/playlist/4xzHksAWlraprPkpIDBv8x?si=0e49bc68cb55467b)
 
-To go more into depth, 
+I will listen to just about any genre of music except for country, with the exception of the Cars 1 & Cars 2 soundtrack. From Korean R&B to old 60's/70's to modern pop, my music tastes roams around constantly! 
