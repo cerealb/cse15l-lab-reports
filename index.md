@@ -5,7 +5,7 @@
 If one is familiar with the app Spotify, there is a specific playlist named "Discover Weekly. Spotify uses a specific algorithm in order to derive a new playlist that may or may not cater to your specific music tastes. Now, what is a *discover yearly* ? A discover yearly is a playlist I have personally made to add all of the songs I have liked throughout the 52 personalized playlists that Spotify has given me. 
 
 This is what a discover weekly looks like: 
-![Image]
+![Image](cse15l-lab-reports/Capture.JPG)
 
 Here's the link to my 2021 discover yearly playlist: 
 
