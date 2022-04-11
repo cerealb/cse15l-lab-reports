@@ -34,3 +34,21 @@ I will listen to just about any genre of music except for country, with the exce
 
 [Puppy Dog - Dreamer Boy](https://open.spotify.com/track/13O36COxxWjcvc9r5Zsd1P?si=12e77099f16b47e4)
 ![spot6](https://user-images.githubusercontent.com/103210460/162681669-a94c1dcc-0c8f-4d42-a915-4c3844948798.JPG)
+
+[Dontmakemefallinlove - Cuco](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ?si=3a7e48cb863c4bb4)
+![spot7](https://user-images.githubusercontent.com/103210460/162681976-2f303028-adb4-492e-8045-2221708063c9.JPG)
+
+[Strangers in the Night - Frank Sinatra](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x?si=fd769feed0c8447e)
+![spot8](https://user-images.githubusercontent.com/103210460/162682140-74c8dab5-23a6-4ae4-9c9a-4fbd15a71fcc.JPG)
+
+[Life is a Highway - Rascal Flatts](https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i?si=0bbb78fac8534c1b)
+![spot9](https://user-images.githubusercontent.com/103210460/162682354-3c6676aa-fe62-4f63-a99f-8f858a972bb8.JPG)
+
+[Oh Honey! (I Love You) - Peach Tree Rascals](https://open.spotify.com/track/4R1l0cGGZfVSBLVdRJiTjp?si=fc86ecd790a5489c)
+![spot10](https://user-images.githubusercontent.com/103210460/162682547-c4fc2e59-0120-495c-8039-16205ccbe3a2.JPG)
+
+[Boulevard - Dan Byrd](https://open.spotify.com/track/0YbivqNmXBJGPEveG2YTUa?si=ddfb02e0875740f0)
+![spot11](https://user-images.githubusercontent.com/103210460/162682797-6a50fb6a-1276-4901-876c-f4e2bb039ad3.JPG)
+
+[Highway to Hell - AC/DC](https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s?si=720a12021c8e4d9d)
+![spot12](https://user-images.githubusercontent.com/103210460/162683357-643cee24-80c9-428a-9340-e3fd7f365724.JPG)
