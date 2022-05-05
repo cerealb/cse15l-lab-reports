@@ -7,8 +7,11 @@ In this Lab Report, I will be completing all of the group choice tasks given to 
 Here is a screenshot of me using the notepad feature on my laptop in order to create a file named config. One problem that I faced during this time was the extension name. Originally, the file was named "config.txt" and this caused many problems within the code. 
 ![Capture](https://user-images.githubusercontent.com/103210460/167017847-986a85f9-2ebe-499c-9e34-846ee62e35bd.JPG)
 
+![Capture](https://user-images.githubusercontent.com/103210460/167020107-bee8eb8f-d4a7-4600-b168-73bcc2f2deb6.JPG)
+
 Here is a screenshot showing the ssh command logging me into my account using the cs15lsp22apa@ieng6.ucsd.edu email. 
-insert pic 
+
+
 
 Here is a screenshot showing an scp command copying a file into my account using the cs15lsp22apa@ieng6.ucsd.edu alias. 
 
