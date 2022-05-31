@@ -42,6 +42,6 @@ And there's still some more text after that.
 And then there's more text
 
 ## Link to my markdown-parse repository here:
-[Markdown-Parser Repository](
+[Markdown-Parser Repository](https://github.com/cerealb/markdown-parser.git)
 
 
