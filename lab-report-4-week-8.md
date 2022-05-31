@@ -52,3 +52,21 @@ And then there's more text
 ### Implementation 
 
 ### Answers
+
+## Snippet 2
+### Expected Output 
+
+### Code in MarkdownParseTest.java
+
+### Implementation 
+
+### Answers
+
+## Snippet 3
+### Expected Output 
+
+### Code in MarkdownParseTest.java
+
+### Implementation 
+
+### Answers
