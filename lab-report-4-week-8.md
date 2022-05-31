@@ -52,7 +52,7 @@ And then there's more text
 
 ## Snippet 1
 ### Expected Output 
-error, 'google.com, 
+error, 'google.com, 'cod[e'] (displayed as a link), 'code]' (displayed as a link) 
 ### Code in MarkdownParseTest.java
 
 ### Implementation 
