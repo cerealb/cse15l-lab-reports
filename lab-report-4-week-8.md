@@ -1,6 +1,7 @@
 # Lab 4 Report 
 
 Consider the following three markdown snippets:
+
 Snippet 1
 `[a link`](url.com)
 
